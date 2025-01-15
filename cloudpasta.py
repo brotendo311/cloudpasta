@@ -1,4 +1,3 @@
-#!/home/juice/tools/venv/bin/python
 from time import sleep
 import pyperclip
 import pyautogui
