@@ -1,6 +1,7 @@
 Install required libraries
 
 pip install pyperclip
+
 pip install pyautogui
 
 
